@@ -10,10 +10,9 @@ using System.Threading.Tasks;
 
 namespace SimpleOperatorOverloading
 {
-    class Program
+    class Corvette
     {
-        static void Main(string[] args)
-        {
-        }
+        // Well, uh ...
+
     }
 }

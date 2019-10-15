@@ -10,10 +10,13 @@ using System.Threading.Tasks;
 
 namespace SimpleOperatorOverloading
 {
-    class Program
+    class Pumpkin
     {
-        static void Main(string[] args)
+        private double mWeight;
+        public double weight
         {
+            get { return mWeight; }
+            set { mWeight = value; }
         }
     }
 }

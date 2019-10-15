@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Corvette.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Pumpkin.cs" />
+    <Compile Include="Purkey.cs" />
+    <Compile Include="Turkey.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
